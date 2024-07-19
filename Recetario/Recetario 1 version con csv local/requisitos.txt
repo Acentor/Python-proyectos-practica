@@ -1,0 +1,6 @@
+Instalar mysql y python
+
+Librerias Python
+mysql-connector-python==8.4.0
+mysql-connector-python-rf==2.2.2
+tk==0.1.0

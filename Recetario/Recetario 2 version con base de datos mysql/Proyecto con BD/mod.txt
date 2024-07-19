@@ -1,0 +1,26 @@
+busqueda por nombre
+
+cuadro de busqueda da un str, formatear sin simbolos y minuscula, converitr en listay luego en set (conjunto)
+comparar con for tomando en valor de cada nombre de receta (str) formatear y convertir tambien
+ver union entre conjunto, existe V o F y sumar a lista, resultado, una ventana nueva con la lista de nombres sin formatera, dependiendo del indice
+
+por ingrediente
+
+lee cada ingrediente, solo el valor, lo formatea lo coloca en lista y luego en conjunto, y un proceso similar al anterior
+
+
+receta del dia
+
+verificar existe archivo dia al abrir programa, si existe continuar, si no existe crear con el contenido nombre de receta al azar
+al ejecutar, comparar fecha ultima modificacion del archivo con fecha actual, si es igual, continuar, si es diferente generar nuevo archivo
+lee nombre de receta del archivo y abre, en caso de no existir mostrar mensaje receta borrada
+
+
+
+
+
+
+
+
+Por cada elemento en la lista receta , creamos lista texto(b nom [1], str a list, b ing [2], valor[i] a list) por cada palabra ingresadas (se crea lista con str búsqueda) 
+por cada pal en palabras, si pal existe en texto, se guarda el nombre en resultado (solo si nombre no existe ya en resultado)sería el [1] de donde sacamos texto sin formatear
