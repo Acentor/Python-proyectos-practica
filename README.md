@@ -2,7 +2,8 @@
 
 ## Proyectos Python
 ### Terminados
-Recetario
+
+- Recetario
 
 ### En Proceso
 
