@@ -29,7 +29,6 @@
 - Lanzador dados-monedas
 - Modificar formatos de imágenes
 - Plataforma de Encuestas y Votaciones
-- Procesamiento de Imágenes
 - Proyecto Deep Learning
 - Quiz
 - Reconocimiento de Voz
