@@ -13,6 +13,7 @@
 - API RESTful
 - Aplicación de clima
 - Aplicación de Notas
+- Aplicación venta Supermercado
 - Bot
 - Calculadora
 - Calendario
@@ -26,6 +27,7 @@
 - Generador de contraseñas
 - Generador de Laberintos
 - Generador de sitemap
+- Gestión Cine
 - Gestión de Scrum
 - Herramienta de cambio de nombre de archivos
 - Juegos 2D
